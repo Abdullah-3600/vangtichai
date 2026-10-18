@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Padding and Margins for Tablets -->
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_large">24dp</dimen>
+    <dimen name="margin_extra_large">40dp</dimen>
+
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+    <dimen name="padding_large">24dp</dimen>
+
+    <dimen name="appbar_height">64dp</dimen>
+
+    <!-- Text Sizes -->
+    <dimen name="text_size_appbar">24sp</dimen>
+    <dimen name="text_size_taka">32sp</dimen>
+    <dimen name="text_size_notes">26sp</dimen>
+    <dimen name="text_size_keypad">26sp</dimen>
+
+    <!-- Note Vertical Spacing -->
+    <dimen name="note_spacing">16dp</dimen>
+
+    <!-- Keypad Button -->
+    <dimen name="keypad_btn_height">72dp</dimen>
+    <dimen name="keypad_btn_margin">6dp</dimen>
+    <dimen name="keypad_btn_corner_radius">4dp</dimen>
+    <dimen name="keypad_btn_stroke_width">1dp</dimen>
+</resources>

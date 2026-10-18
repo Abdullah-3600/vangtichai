@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VangtiChai</string>
+    <string name="taka_display_empty">Taka:</string>
+    <string name="taka_label_prefix">Taka: </string>
+
+    <!-- Note String Defaults for Layout Preview -->
+    <string name="note_500_default">500: 0</string>
+    <string name="note_100_default">100: 0</string>
+    <string name="note_50_default">50: 0</string>
+    <string name="note_20_default">20: 0</string>
+    <string name="note_10_default">10: 0</string>
+    <string name="note_5_default">5: 0</string>
+    <string name="note_2_default">2: 0</string>
+    <string name="note_1_default">1: 0</string>
+
+    <!-- Keypad Buttons -->
+    <string name="btn_0">0</string>
+    <string name="btn_1">1</string>
+    <string name="btn_2">2</string>
+    <string name="btn_3">3</string>
+    <string name="btn_4">4</string>
+    <string name="btn_5">5</string>
+    <string name="btn_6">6</string>
+    <string name="btn_7">7</string>
+    <string name="btn_8">8</string>
+    <string name="btn_9">9</string>
+    <string name="btn_clear">CLEAR</string>
+</resources>
